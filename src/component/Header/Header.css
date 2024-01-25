@@ -1,0 +1,22 @@
+.headerButton {
+  display: flex;
+  padding: 12px 12px 8px 12px;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  align-self: stretch;
+  border-radius: 32px;
+  background: #5f3595;
+  width: auto;
+  border: #5f3595;
+}
+
+.headerText {
+  color: #fff;
+  text-align: center;
+  /* font-family: Satoshi; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+}
